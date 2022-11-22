@@ -1,0 +1,50 @@
+main{ 
+  display: flex;  
+  background: hsl(217, 54%, 11%);
+  width: 1440px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: hsl(216, 50%, 16%);
+    margin: 5% auto;
+    width: 23%;
+    border-radius: 20px;
+    
+}
+
+.Equilibrium{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+.images img{
+    width: 290px;
+    border-radius: 20px;
+
+}
+
+.text{
+    color: #fff;
+    
+}
+
+.text-text{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    
+}
+.title{
+    font-size: 25px;
+    
+}
+
+.collection{
+    padding: 20px 0;
+    font-size: 18px;
+}

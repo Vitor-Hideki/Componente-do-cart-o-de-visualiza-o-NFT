@@ -1,50 +1,117 @@
-main{ 
-  display: flex;  
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+body{ 
   background: hsl(217, 54%, 11%);
-  width: 1440px;
 }
 
-.container{
+.principal{
     display: flex;
-    flex-direction: column;
     justify-content: center;
-    background: hsl(216, 50%, 16%);
-    margin: 5% auto;
-    width: 23%;
-    border-radius: 20px;
-    
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
 }
 
 .Equilibrium{
+    background: hsl(216, 50%, 16%);
+    width: 300px;
+    height: 550px;
+    padding: 20px;
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin: 20px;
-}
-
-.images img{
-    width: 290px;
+    justify-content: flex-start;
+    flex-direction:column;
     border-radius: 20px;
-
+    font-family: 'Outfit', sans-serif;
+    box-shadow: 0px 0px 35px 20px rgba(0, 0, 0, 0.162);
 }
 
-.text{
-    color: #fff;
-    
+.img-equilibrium{
+    width: 100%;
+    border-radius: 10px;
 }
 
-.text-text{
-    display: flex;
-    flex-direction: column;
-    margin: 20px;
-    
-}
-.title{
+.Equilibrium a{
+    margin-top: 20px;
     font-size: 25px;
-    
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
 }
 
-.collection{
-    padding: 20px 0;
+.Equilibrium a:active{
+    color:hsl(178, 100%, 50%);
+}
+
+.Equilibrium p{
+    padding: 18px 0;
     font-size: 18px;
+    color: hsl(215, 51%, 70%);
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+.conteudo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 30px;
+}
+
+.eth{
+    display: flex;
+    align-items: center;
+}
+
+.days{
+    display: flex;
+    align-items: center;
+}
+
+.eth p{
+    padding: 0 0 0 5px;
+    color:  hsl(178, 100%, 50%);
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.days p{
+    padding: 0 0 0 5px;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+hr{
+    margin-top: 20px;
+    border: 1px solid hsl(215, 32%, 27%);
+}
+
+.autor{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+   
+}
+
+.autor img{
+    width: 30px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+}
+
+.autor p{
+    padding: 0 15px;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.autor a{
+    padding: 0 5px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.autor a:active{
+    color: hsl(178, 100%, 50%);
 }

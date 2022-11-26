@@ -1,4 +1,29 @@
+## Índice
+
+  - [O desafio](#o-desafio)
+  - [Captura de tela](#captura-de-tela)
+  - [Descrição do projeto](#descrição-projeto)
+  - [Construído com](#construído-com)
+  - [O que aprendi](#o-que-aprendi)
+  - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
+  - [Recursos úteis](#useful-resources)
+
+
+### O desafio
+
+Os usuários devem ser capazes de:
+
+- Veja o layout ideal dependendo do tamanho da tela do dispositivo
+- Veja os estados de foco para elementos interativos
+
+### Captura de tela
+
 ![](./card-nft.png)
+
+### Descrição do projeto
+
+Um componente do cartão de vizualização NFT, uma representação de um item exclusivo Equilibrium. 
+
 
 ### Construído com
 
@@ -8,7 +33,7 @@
 
 ### O que eu aprendi
 
-No desenvolvimento desse projeto eu aprendi como posicionar os elementos utilizando o FlexBox. Aprendi també sobre o box-shadow, que foi utilizado para criar a sombra atras do Card, e sobre o viewport, para a utilização total do nosso dispositivo.
+No desenvolvimento desse projeto eu aprendi como posicionar os elementos utilizando o FlexBox. Aprendi também sobre o box-shadow, que foi utilizado para criar a sombra atras do Card, e sobre o viewport, para a utilização total do nosso dispositivo.
 
 
 ```css

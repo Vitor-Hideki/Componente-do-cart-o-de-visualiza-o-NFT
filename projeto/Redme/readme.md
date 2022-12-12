@@ -1,35 +1,36 @@
 ## Índice
-
-  - [O desafio](#o-desafio)
+- [Visão geral](#visão-geral)
   - [Captura de tela](#captura-de-tela)
+  - [Links](#links)
+- [Meu processo](#meu-processo)
+   - [Construído com](#construído-com)
   - [Descrição do projeto](#descrição-projeto)
-  - [Construído com](#construído-com)
   - [O que aprendi](#o-que-aprendi)
   - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
   - [Recursos úteis](#useful-resources)
 
-
-### O desafio
-
-Os usuários devem ser capazes de:
-
-- Veja o layout ideal dependendo do tamanho da tela do dispositivo
-- Veja os estados de foco para elementos interativos
+## Visão geral
 
 ### Captura de tela
 
 ![](./card-nft.png)
 
+### Links
+
+ - URL do site: [Link do projeto](https://desafio-nft-card.netlify.app/)
+
+ ## Meu processo
+
+ ### Construído com
+
+- Marcação HTML5 semântica
+- Propriedades personalizadas CSS
+- Flexbox
+
 ### Descrição do projeto
 
 Um componente do cartão de vizualização NFT, uma representação de um item exclusivo Equilibrium. 
 
-
-### Construído com
-
--HTML5
--CSS
--FlexBox
 
 ### O que eu aprendi
 

@@ -13,11 +13,11 @@
 
 ### Captura de tela
 
-![](./card-nft.png)
+![](./assets/images/card-nft.png)
 
 ### Links
 
- - URL do site: [Link do projeto](https://desafio-nft-card.netlify.app/)
+ - URL do site: [Link do projeto](https://card-nft-equilibrium.netlify.app/)
 
  ## Meu processo
 
